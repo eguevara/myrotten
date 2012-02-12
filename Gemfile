@@ -5,6 +5,7 @@ gem 'rails', '3.1.0'
 # Bundle edge Rails instead:
 # gem 'rails',     :git => 'git://github.com/rails/rails.git'
 # for Heroku, replace "gem 'sqlite3'" in your Gemfile with this:
+# erick
 group :development, :test do
   # if you already have a 'group :development,:test' block in your
   # Gemfile, you can just move the line "gem 'sqlite3'" into it.
